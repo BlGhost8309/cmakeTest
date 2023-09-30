@@ -1,0 +1,8 @@
+[
+{
+  "directory": "I:/Sergey/Programming/C(C++)/cmakeTest/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe   -g -o CMakeFiles\\myCmakeTest.dir\\main.c.obj -c I:\\Sergey\\Programming\\C(C++)\\cmakeTest\\main.c",
+  "file": "I:/Sergey/Programming/C(C++)/cmakeTest/main.c",
+  "output": "CMakeFiles/myCmakeTest.dir/main.c.obj"
+}
+]
